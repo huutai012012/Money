@@ -1,4 +1,4 @@
-# Money
+# polymer money classification using VGG16 costume for vending machine
 ## Python3 + OpenCV + Tensorflow + Keras + VGG16 costume
 
 <p style="color:Tomato;font-size:300%;">=>>Click on picture to see paradigm in action<<=</p>
